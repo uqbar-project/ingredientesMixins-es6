@@ -1,13 +1,10 @@
 
 # Ingredientes de una receta de cocina - Ejemplo de mixins
 
-<img src="img/customer.png" height="100" width="100"/>
-
-## El dominio
-
 ![recetas](img/recetas.png)
 
 ## Objetivo
+
 Muestra cómo se implementa un mixin de un ingrediente que "hereda" atributos y comportamiento de 
 
 * Dosis, 
@@ -30,7 +27,7 @@ El proyecto viene con tests hechos en [Jasmine](https://jasmine.github.io/). Par
 * Clonar el proyecto (o descargarlo como zip)
 
 ```bash
-# git clone https://github.com/uqbar-project/clientesStrategy-es6
+# git clone https://github.com/uqbar-project/ingredientesMixins-es6
 ```
 
 * Abrir el archivo [SpecRunner.html](SpecRunner.html) en un navegador
