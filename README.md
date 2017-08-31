@@ -1,6 +1,8 @@
 
 # Ingredientes de una receta de cocina - Ejemplo de mixins
 
+[![Build Status](https://travis-ci.org/uqbar-project/ingredientesMixins-es6.svg?branch=master)](https://travis-ci.org/uqbar-project/ingredientesMixins-es6)
+
 ![recetas](img/recetas.png)
 
 ## Objetivo
